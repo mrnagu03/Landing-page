@@ -17,7 +17,7 @@ body {
 .main-1 {
     height: 100%;
     width: 100%;
-    background-image: url("background.jpg");
+    background-image: url("./background.jpg");
     background-size: cover;
 }
 
